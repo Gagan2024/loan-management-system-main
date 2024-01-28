@@ -7,6 +7,8 @@ The Loan Management System is a web application designed to manage loans, track 
 
 Key features of this Loan Management System include loan creation, repayment processing, user account management, and comprehensive reporting.
 
+Used HTML CSS JavaScript and Node.js
+
 ## Features
 
 - **User Authentication:** Secure user accounts with authentication and authorization.
