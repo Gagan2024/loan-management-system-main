@@ -18,15 +18,6 @@ Used HTML CSS JavaScript and Node.js
 - **User Account Management:** Manage user profiles, including personal and contact information.
 - **Reporting:** Generate reports and insights into loan status, repayment history, and more.
 
-## Some Glimpses
-
-![Image](/images/image01.png)
-
-![Image](/images/image02.png)
-
-![Image](/images/image03.png)
-
-![Image](/images/image04.png)
 
 ## Getting Started
 
